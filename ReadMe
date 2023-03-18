@@ -11,7 +11,7 @@ Following Features Automted:
 
 Open GoogleMap website and search Source and Destination
 - Selects the 1st route from the search results
-- featch all directions and writes it into excel
+- Fetch all directions and writes it into excel
 - takes screenshot
 
 Clone this project.
