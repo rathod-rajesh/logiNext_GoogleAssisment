@@ -1,0 +1,18 @@
+GoogleMap Automation :
+
+This project aims to automate few features of eBay website.
+
+Technology Stack :
+
+Selenium Webdriver
+Java
+TestNG
+Following Features Automted:
+
+Open GoogleMap website and search Source and Destination
+- Selects the 1st route from the search results
+- featch all directions and writes it into excel
+- takes screenshot
+
+Clone this project.
+Run .xml file.
