@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LogiNext Test Suite" >
+    <test name="GoogleMapAutomation">
+        <classes>
+            <class name="Tests.GoogleMapsTest"/>
+        </classes>
+    </test>
+</suite>
